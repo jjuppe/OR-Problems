@@ -4,6 +4,8 @@ import random
 '''
     Data for this example is imported from Cordeau's VRP database at: 
     http://neumann.hec.ca/chairedistributique/data/mdvrp/new/
+
+    Implementation based on the Paper of Fernandez et al. 2018
 '''
 
 PATH = "data/p01.txt"
